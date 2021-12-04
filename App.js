@@ -94,8 +94,7 @@ const App=()=>{
     )
   })
   };
-
- 
+  
   const renderCategory=({item})=>{
    return(
      <View style={{flexDirection:'row',
